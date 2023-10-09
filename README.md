@@ -1,6 +1,6 @@
 # Hey there, I'm Suryakant Yadav! 👋
 
-![Profile Picture]([https://github.com/suryakant-yadav.png]
+![Profile Picture]([https://github.com/suryakant-yadav.png])
 
 ## About Me
 
