@@ -16,15 +16,6 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 - **Android Aficionado**: Android Studio is my go-to spot. I'm cooking up mobile apps with a dash of UX magic. Let's make tech waves! 🚀
 <br>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
-&nbsp; 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
- &nbsp;          
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
- &nbsp;          
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="57" height="57" />
 </a>
@@ -43,6 +34,16 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
 </a>
+ &nbsp;    
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
+&nbsp; 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
+ &nbsp;          
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
+      
 
   
 ## Github Stats 
