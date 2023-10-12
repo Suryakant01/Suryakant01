@@ -1,29 +1,64 @@
-# Hey there, I'm Suryakant Yadav! 👋
 
-![Profile Picture]([https://github.com/suryakant-yadav.png])
+# Hey there, I'm Suryakant Yadav! 👋
 
 ## About Me
 
-I'm a computer science enthusiast currently pursuing my B.Tech in CSE at Galgoitas University. I've got a passion for crafting sleek and user-friendly interfaces, so you can call me the frontend maestro! But hey, I don't stop there. I've got my sights set on becoming a full-stack wizard and an Android app guru. 🧙‍♂️
+Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas University. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard and an Android app guru. Join me on this tech rollercoaster! 🧙‍♂️
 
-## My Magical Skills 🪄
+## My Tech Toolkit ✨
 
-- **Frontend Sorcery**: I wield HTML, CSS, and JavaScript to create delightful and interactive web experiences. My code is so clean; it makes a freshly swept floor jealous.
+- **Frontend Fanatic**: I whip up awesome web experiences using HTML, CSS, and JavaScript.
 
-- **Java Juggler**: I'm not just brewing coffee with Java; I'm crafting software that runs on it. Object-oriented programming is my playground.
+- **Java Explorer**: I'm not just sipping coffee; I'm coding cool stuff with Java.
 
-- **Full-Stack Aspirations**: Watch out world, because I'm on a mission to conquer the back end as well. Databases, servers, APIs – I'm coming for you!
+- **Full-Stack Dreamer**: I'm on a mission to conquer the backend – databases, servers, APIs, you name it!
 
-- **Android Alchemist**: Android Studio is my cauldron, and I'm conjuring up mobile apps with a sprinkle of UX magic.
+- **Android Aficionado**: Android Studio is my go-to spot. I'm cooking up mobile apps with a dash of UX magic. Let's make tech waves! 🚀
+<br>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
+&nbsp; 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
+ &nbsp;          
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
+ &nbsp;          
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="57" height="57" />
+</a>
+&nbsp; 
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="57" height="57" />
+</a>
+&nbsp; 
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="57" height="57" />
+</a>
+&nbsp; 
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
+</a>
+
+  
+## Github Stats 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakant01&show_icons=true&locale=en&layout=compact&theme=dark" alt="suryakant01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakant01&show_icons=true&locale=en&theme=dark" alt="suryakant01" /></p>
 
 ## Connect With Me 🚀
 
 - **LinkedIn**: [Suryakant Yadav](https://www.linkedin.com/in/surya-kant-yadav-6192a224a)
 - **Email**: Suryakant160502@gmail.com
 
-Feel free to reach out if you're interested in collaborating, sharing a coding potion, or just swapping magical tech stories. Together, we can make the digital realm a more whimsical and wonderful place! ✨
+Feel free to reach out if you're interested in collaborating, coding discussions, or to share insights on my repositories.
 
-P.S. Don't forget to star ⭐️ this repo if you found it spellbinding!
+P.S. Don't forget to star ⭐️ this repo if you found it Intresting.
+
 <!---
 Suryakant01/Suryakant01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
