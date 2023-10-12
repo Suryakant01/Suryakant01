@@ -51,6 +51,10 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakant01&show_icons=true&locale=en&theme=dark" alt="suryakant01" /></p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakant01&theme=dark)](https://git.io/streak-stats)
+
+
 ## Connect With Me 🚀
 
 - **LinkedIn**: [Suryakant Yadav](https://www.linkedin.com/in/surya-kant-yadav-6192a224a)
