@@ -30,19 +30,38 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="57" height="57" />
 </a>
 &nbsp; 
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="57" height="57" /></a>
+&nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="57" height="57" /></a>
+&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="57" height="57" /></a>
+&nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="57" height="57" /></a>
+&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="57" height="57" /></a>
+&nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="57" height="57" /></a>
+&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="57" height="57" /></a>
+&nbsp;
+
+
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
 </a>
- &nbsp;    
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
-&nbsp; 
+ &nbsp; 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
- &nbsp;          
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
+ &nbsp;
       
 
   
