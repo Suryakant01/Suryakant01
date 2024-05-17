@@ -42,6 +42,9 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="57" height="57" /></a>
 &nbsp;
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="ngnix" width="57" height="57" /></a>
+&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="57" height="57" /></a>
 &nbsp;
