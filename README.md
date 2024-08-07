@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas University. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard and an Android app guru. Join me on this tech rollercoaster! 🧙‍♂️
+Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas University. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard. Join me on this tech rollercoaster! 🧙‍♂️
 
 ## My Tech Toolkit ✨
 
@@ -13,7 +13,6 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 
 - **Full-Stack Dreamer**: I'm on a mission to conquer the backend – databases, servers, APIs, you name it!
 
-- **Android Aficionado**: Android Studio is my go-to spot. I'm cooking up mobile apps with a dash of UX magic. Let's make tech waves! 🚀
 <br>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -59,11 +58,8 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
 </a>
  &nbsp; 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
- &nbsp;
-      
 
+      
   
 ## Github Stats 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakant01&show_icons=true&locale=en&layout=compact&theme=dark" alt="suryakant01" /></p>
@@ -79,13 +75,8 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 - **LinkedIn**: [Suryakant Yadav](https://www.linkedin.com/in/surya-kant-yadav-6192a224a)
 - **Email**: Suryakant160502@gmail.com
 
-Feel free to reach out if you're interested in collaborating, coding discussions, or to share insights on my repositories.
+Please feel free to contact me if you're interested in collaborating, coding discussions, or sharing insights on my repositories.
 
-P.S. Don't forget to star ⭐️ this repo if you found it Intresting.
-
-<!---
-Suryakant01/Suryakant01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+P.S. Don't forget to star ⭐️ this repo if you find it interesting.
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
