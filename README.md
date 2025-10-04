@@ -32,9 +32,6 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="57" height="57" /></a>
 &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="57" height="57" /></a>
-&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="57" height="57" /></a>
 &nbsp;
